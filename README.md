@@ -1,3 +1,3 @@
 # Emotions_app
 
-#### Para desplegar este proyecto es necesario seguir estas instrucciones:
+Este proyecto todavía está en construcción
